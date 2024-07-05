@@ -6,7 +6,7 @@
 | <b> Matakuliah   | Pemrograman Web 2       |
 # UAS PEMOOGRAMAN MOBILE2
 ## Project apk Juz Amma
-![img](../uaspm/img/1.jpeg)
+![img](https://github.com/Hendraparsaulian28/uasmobile2/blob/main/img/1.jpeg)
 ![img](../uaspm/img/2.jpeg)
 ![img](../uaspm/img/3.jpeg)
 ![img](../uaspm/img/4.jpeg)
