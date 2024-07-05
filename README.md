@@ -7,8 +7,8 @@
 | <b> Matakuliah   | Pemrograman Mobile2       |
 # UAS PEMOOGRAMAN MOBILE2
 ## Project apk Juz Amma
-![uaspm](../uaspm/img/1.jpeg)
-![uaspm](../uaspm/img/2.jpeg)
-![uaspm](../uaspm/img/3.jpeg)
-![uaspm](../uaspm/img/4.jpeg)
-![uaspm](../uaspm/img/5.jpeg)
+![img](./img/1.jpeg)
+![img](../uaspm/img/2.jpeg)
+![img](../uaspm/img/3.jpeg)
+![img](../uaspm/img/4.jpeg)
+![img](../uaspm/img/5.jpeg)
