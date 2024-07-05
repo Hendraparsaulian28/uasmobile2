@@ -8,7 +8,7 @@
 # UAS PEMOOGRAMAN MOBILE2
 ## Project apk Juz Amma
 ![img](./img/1.jpeg)
-![img](../uaspm/img/2.jpeg)
-![img](../uaspm/img/3.jpeg)
-![img](../uaspm/img/4.jpeg)
-![img](../uaspm/img/5.jpeg)
+![img](./img/2.jpeg)
+![img](./img/3.jpeg)
+![img](./img/4.jpeg)
+![img](./img/5.jpeg)
